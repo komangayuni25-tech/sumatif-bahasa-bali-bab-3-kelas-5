@@ -1,0 +1,8 @@
+{
+  "name": "sumatif bhs bali bab 3 kls 5",
+  "description": "Aplikasi Asesmen Sumatif Bahasa Bali Kelas 5 SD Negeri 3 Loloan Timur materi Ngelimbakang Kawagedan Melarapan Kesenengan (40 PG & 5 PGK Kategori), matriks respon butir, kisi-kisi resmi, dan sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
